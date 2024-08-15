@@ -11,9 +11,4 @@
 - **Contar Tarefas Pendentes:** Retorna o número de tarefas que ainda não foram concluídas.
 - **Contar Tarefas Concluídas:** Retorna o número de tarefas que já foram concluídas.
 
-## Como Usar
-
-1. **Clonar o repositório**  
-   Clone este repositório para a sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/taskmaster.git
+## Projeto em desenvolvimento
